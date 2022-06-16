@@ -2,7 +2,7 @@
  * CSC450_CT5.cpp
  *
  *  Created on: Jun 10, 2020
- *      Author: Fred Shattell
+ *      Author: 303 Composites
  */
 
 #include <iostream>
